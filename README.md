@@ -1,5 +1,3 @@
-# PicRepo
-
-# Private Picture Collection.
+# Test
 
 # Nothing usefull.
